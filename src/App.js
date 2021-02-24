@@ -15,16 +15,16 @@ const App = () => {
 			<Navbar />
 			<section className="container">
 				<Switch>
-					<Route path="/new" component={MoviesForm} />
-					<Route path="/login" component={Login} />
-					<Route path="/register" component={Register} />
-					<Route path="/movies/:movieId" component={MoviesForm} />
-					<Route path="/movies" component={Movies} />
-					<Route path="/customers" component={Customers} />
-					<Route path="/rentals" component={Rentals} />
-					<Route path="/not-found" component={Notfound} />
-					<Redirect from="/" exact to="/movies" />
-					<Redirect to="/not-found" />
+					<Route path="https://zohaib546.github.io/new" component={MoviesForm} />
+					<Route path="https://zohaib546.github.io/login" component={Login} />
+					<Route path="https://zohaib546.github.io/register" component={Register} />
+					<Route path="https://zohaib546.github.io/movies/:movieId" component={MoviesForm} />
+					<Route path="https://zohaib546.github.io/movies" component={Movies} />
+					<Route path="https://zohaib546.github.io/customers" component={Customers} />
+					<Route path="https://zohaib546.github.io/rentals" component={Rentals} />
+					<Route path="https://zohaib546.github.io/not-found" component={Notfound} />
+					<Redirect from="https://zohaib546.github.io/" exact to="/movies" />
+					<Redirect to="https://zohaib546.github.io/not-found" />
 				</Switch>
 			</section>
 		</React.Fragment>
