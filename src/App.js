@@ -15,6 +15,7 @@ const App = () => {
 			<Navbar />
 			<section className="container">
 				<Switch>
+					<Route path="/" exact component={Movies} />
 					<Route path="/new" component={MoviesForm} />
 					<Route path="/login" component={Login} />
 					<Route path="/register" component={Register} />
@@ -23,7 +24,6 @@ const App = () => {
 					<Route path="/customers" component={Customers} />
 					<Route path="/rentals" component={Rentals} />
 					<Route path="/not-found" component={Notfound} />
-					<Route path="/" exact component={Movies} />
 					{/* <Redirect from="/" exact to="/movies" />
 					<Redirect to="/not-found" /> */}
 				</Switch>
