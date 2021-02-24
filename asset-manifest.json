@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/vidly-movie-app/static/js/main.55c54368.chunk.js",
+    "main.js.map": "/vidly-movie-app/static/js/main.55c54368.chunk.js.map",
+    "runtime-main.js": "/vidly-movie-app/static/js/runtime-main.ea4f0142.js",
+    "runtime-main.js.map": "/vidly-movie-app/static/js/runtime-main.ea4f0142.js.map",
+    "static/css/2.ef3a65dc.chunk.css": "/vidly-movie-app/static/css/2.ef3a65dc.chunk.css",
+    "static/js/2.efcece79.chunk.js": "/vidly-movie-app/static/js/2.efcece79.chunk.js",
+    "static/js/2.efcece79.chunk.js.map": "/vidly-movie-app/static/js/2.efcece79.chunk.js.map",
+    "static/js/3.885e367a.chunk.js": "/vidly-movie-app/static/js/3.885e367a.chunk.js",
+    "static/js/3.885e367a.chunk.js.map": "/vidly-movie-app/static/js/3.885e367a.chunk.js.map",
+    "index.html": "/vidly-movie-app/index.html",
+    "static/css/2.ef3a65dc.chunk.css.map": "/vidly-movie-app/static/css/2.ef3a65dc.chunk.css.map",
+    "static/js/2.efcece79.chunk.js.LICENSE.txt": "/vidly-movie-app/static/js/2.efcece79.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/vidly-movie-app/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea4f0142.js",
+    "static/css/2.ef3a65dc.chunk.css",
+    "static/js/2.efcece79.chunk.js",
+    "static/js/main.55c54368.chunk.js"
+  ]
+}
